@@ -287,10 +287,13 @@ summary {
 }
 
 #logo-content {
-  background-image: url("images/background.png");
-  background-position: 70% 0%;
+  background-image: url("images/background.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   height: 100vh;
-  width: 50vw;
+  width: 40vw;
+  border: 1px solid red;
 }
 
 #container {
